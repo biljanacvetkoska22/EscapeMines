@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\EscapeMines\EscapeMines.Common\bin\Debug\netcoreapp2.2\EscapeMines.Common.deps.json
+C:\Users\User\source\repos\EscapeMines\EscapeMines.Common\bin\Debug\netcoreapp2.2\EscapeMines.Common.dll
+C:\Users\User\source\repos\EscapeMines\EscapeMines.Common\bin\Debug\netcoreapp2.2\EscapeMines.Common.pdb
+C:\Users\User\source\repos\EscapeMines\EscapeMines.Common\obj\Debug\netcoreapp2.2\EscapeMines.Common.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\EscapeMines\EscapeMines.Common\obj\Debug\netcoreapp2.2\EscapeMines.Common.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\EscapeMines\EscapeMines.Common\obj\Debug\netcoreapp2.2\EscapeMines.Common.AssemblyInfo.cs
+C:\Users\User\source\repos\EscapeMines\EscapeMines.Common\obj\Debug\netcoreapp2.2\EscapeMines.Common.dll
+C:\Users\User\source\repos\EscapeMines\EscapeMines.Common\obj\Debug\netcoreapp2.2\EscapeMines.Common.pdb
+C:\Users\User\source\repos\EscapeMines\EscapeMines.Common\bin\Debug\netcoreapp2.2\GameSettings\Settings.txt
+C:\Users\User\source\repos\EscapeMines\EscapeMines.Common\obj\Debug\netcoreapp2.2\EscapeMines.Common.csprojAssemblyReference.cache
